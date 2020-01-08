@@ -8,5 +8,5 @@ BULK REMOVE COMING SOON!
 - time
 
 # Downloads Required
-Download chromediver based on your chrome version!
+Download chromedriver based on your chrome version!
 https://sites.google.com/a/chromium.org/chromedriver/downloads
