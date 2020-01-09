@@ -1,4 +1,4 @@
-# mee6_bulk_badwords
+# mee6_bulk_badwords (Windows)
 Adds and Removes bad words in Bulk. Designed only for Mee6.
 
 # Dependencies
