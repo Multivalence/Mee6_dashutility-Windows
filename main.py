@@ -13,7 +13,7 @@ location = input("Where is the downloaded webdriver located? (e.g. Downloads) CA
 
 browser = webdriver.Chrome(f'C:\\Users\\{name}\\{location}\\chromedriver')
 
-browser.get("https://google.com")
+browser.get("https://mee6.xyz")
 
 while True:
     selection = input('''\n\nPlease go to mee6.xyz on the new chrome tab that has opened. 
