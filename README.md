@@ -14,5 +14,3 @@ https://sites.google.com/a/chromium.org/chromedriver/downloads
 - MacOS : https://github.com/Multivalence/MacOS_bulk_badwords/tree/master
 - Linux : Coming Soon
 
-# Need Help?
-Contact Atomization#7090 on discord!
