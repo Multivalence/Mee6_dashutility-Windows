@@ -1,4 +1,4 @@
-# mee6_bulk_badwords (Windows)
+# Mee6 Dashboard Utility (Windows)
 Adds and Removes bad words in Bulk. Designed only for Mee6.
 
 # Dependencies
@@ -11,7 +11,7 @@ Download chromedriver based on your chrome version!
 https://sites.google.com/a/chromium.org/chromedriver/downloads
 
 # Other Versions
-- MacOS : https://github.com/Multivalence/MacOS_bulk_badwords/tree/master
+- MacOS : https://github.com/Multivalence/Mee6_dashutility-MacOS/
 - Linux : Coming Soon
 
 # Planned Updates
