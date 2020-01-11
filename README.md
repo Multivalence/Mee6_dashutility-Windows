@@ -1,6 +1,8 @@
 # Mee6 Dashboard Utility (Windows)
 Adds and Removes bad words in Bulk. Designed only for Mee6.
 
+Please note that I am not associated with mee6 in any way and this is a third party program. You are responsible for any problems this may cause to your computer. Download at your own risk.
+
 # Dependencies
 - python3.7
 - selenium
