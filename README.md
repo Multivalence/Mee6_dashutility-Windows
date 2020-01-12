@@ -10,10 +10,10 @@ Please note that I am not associated with mee6 in any way and this is a third pa
 
 # Downloads Required
 Download chromedriver based on your chrome version!
-https://sites.google.com/a/chromium.org/chromedriver/downloads
+[Here](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 
 # Other Versions
-- MacOS : https://github.com/Multivalence/Mee6_dashutility-MacOS/
+- MacOS : [Here](https://github.com/Multivalence/Mee6_dashutility-MacOS/)
 - Linux : Coming Soon
 
 # Planned Updates
@@ -22,5 +22,13 @@ https://sites.google.com/a/chromium.org/chromedriver/downloads
 - [ ] More eye appealing Interface
 - [ ] Reduce Complexity so people with no computer experience can still understand what to do
 
+# Features that got removed
+| Feature       | Reason        |
+| ------------- |:-------------:| 
+| Adding in bulk| Mee6 has been updated to already have this feature. I have changed this feature into pre-written words. | 
+ 
+
+
+# Contact
 Have an Idea that you want to have added? Add me as a friend in discord! (Atomization#7090)
 
