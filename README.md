@@ -30,5 +30,5 @@ Download chromedriver based on your chrome version!
 
 
 # Contact
-Have an Idea that you want to have added? Add me as a friend in discord! (Atomization#7090)
+Want to contact us? Come to our support server : [Here](https://discord.gg/vAY5DJR)
 
